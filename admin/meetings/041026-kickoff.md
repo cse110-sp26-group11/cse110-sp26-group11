@@ -76,7 +76,7 @@
 - Organize team responsibilities and timeline
 - Set up the starter repository, set up channel for this assignement only - *Yuting, Done*
 - model and harness
-  - Gemini Code Assist
+  - Gemini Code Assist, gemini-3-flash-preview 
 - Create/finalize RUBRIC.md and README.md documentation - *Sid, Zihan/Laura, due by Saturday night*
 
 **Phase 2 — Initial Experimentation** - *Yuting(1-10), Arjun(11-20), Ethan(21-30), Ray(31-40), Diana(41-50), due on Sunday noon*
