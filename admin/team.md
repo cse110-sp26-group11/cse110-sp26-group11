@@ -5,7 +5,7 @@
 # Roster
 
 Yuting Duan
-https://yutingduan111.github.io/CSE110Lab1/
+https://github.com/YutingDuan111
 Bio: Junior year Computer Science student at UCSD. Experience with website development, computer vision, and developing simulation software. 
 
 Ryan Lee 
@@ -21,7 +21,7 @@ https://cse110.nxtdroid.win
 Bio: Undergraduate Student of Computer Science and Philosophy. Experienced with DevOps. 
 
 Arav Vyawahare 
-https://github.com/aravv17/cse110_lab1
+https://github.com/aravv17
 Bio: Senior year Math-CS Student at UCSD. Experienced in AI engineering, benchmarking, and embedded systems.
 
 Siddharth Sivalanka 
