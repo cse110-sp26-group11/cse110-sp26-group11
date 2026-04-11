@@ -41,3 +41,4 @@ This team contract will be reviewed regularly throughout the project lifecycle. 
 By agreeing to this team contract, all team members confirm their understanding and commitment to abiding by the above rules and responsibilities.
 
 ### Signature
+
