@@ -1,25 +1,28 @@
-Team Colors:  
-![][image1]![][image2]
+# Team Identity
 
-Team Logo Ideas:  
-![][image3]![][image4]![][image5]![][image6]
+## Team Colors
 
-Verdict: cute potato face on strong potato.
+<img src="images/blue.png" width="45%"> &nbsp; <img src="images/bronze.png" width="45%">
 
-Potato slideshow link:  
-[https://docs.google.com/presentation/d/1woOD9fFhnhatvTEXPiaT\_ELHtiqaMBTGTYAHdDAa8qc/edit?usp=sharing](https://docs.google.com/presentation/d/1woOD9fFhnhatvTEXPiaT_ELHtiqaMBTGTYAHdDAa8qc/edit?usp=sharing)  
+---
 
+## Team Logo Ideas
 
-[image1]: <images/blue.png>
+| Concept | Preview |
+|---------|---------|
+| Cute | <img src="images/cute.png" width="60%"> |
+| Cute Muscle | <img src="images/cutemuscle.png" width="60%"> |
+| Cool | <img src="images/cool.png" width="60%"> |
+| Muscly Potato | <img src="images/musclypotato.png" width="60%"> |
 
-[image2]: <images/bronze.png>
+---
 
-[image3]: <images/cute.png>
+## Verdict
 
-[image4]: <images/cutemuscle.png>
+> **cute potato face on strong potato**
 
-[image5]: <images/cool.png>
+---
 
-[image6]: <images/muscly potato.png>
+## Potato Slideshow
 
-[image7]: <images/corporate.png>
+[View the Potato Slideshow on Google Slides](https://docs.google.com/presentation/d/1woOD9fFhnhatvTEXPiaT_ELHtiqaMBTGTYAHdDAa8qc/edit?usp=sharing)
