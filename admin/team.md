@@ -1,14 +1,18 @@
 # Team 11 - Potatoes
 
-|                                         |       |
-|-----------------------------------------|-------|
-| one   | two   |
-|-----------------------------------------|-------|
+## Contents
+- [About Us](#about-us)
+- [Team Roster](#roster)
 
+## About Us
+![img](misc\imgs\Team_Potato_Banner.png)
+Welcome! We are team potatos, a software development team from UCSD. We are a diverse team with members from many cultural backgrounds, interests, languages, and computer science experiences. Check out each member's page to see more of what they have to offer!
 
+#### Company Values and Mission Statement
+Here at Team Potatos we value communication, dedication, effort, leadership, and quality work.
 
-## Roster
-|  💪🥔 | Members of our team |
+## Team Roster
+|  💪🥔 | Members of Our Team |
 |-----|-------|
 | ![pfp Yuting Duan](misc\imgs\yutingduan.jpg "Yuting Duan")|  <b>Yuting Duan</b> <br>        https://github.com/YutingDuan111<br>               Junior year Computer Science student at UCSD. Experience with website development, computer vision, and developing simulation software. |
 |  <img src="misc\imgs\ryanlee.png" alt="pfp Ryan Lee" width="100"/> |<b>Ryan Lee</b> <br>https://ryl2005.github.io  <br>  2nd year CS major. Experience with bioacoustics research and building AI applications. |
