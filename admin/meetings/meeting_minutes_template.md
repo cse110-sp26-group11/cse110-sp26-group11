@@ -12,7 +12,6 @@
 
 ## Attendees
 
-- [ ] Yuting Duan
 - [ ] Arav Vyawahare
 - [ ] Kelly Dempster
 - [ ] Diana Kostina
